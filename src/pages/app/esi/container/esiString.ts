@@ -1,0 +1,15 @@
+import strings from "translation";
+export const GROSSLABEL = strings["HEADER.ESI.GROSSLABEL"];
+export const EFFECTDATELABEL = strings["HEADER.ESI.EFFECTDATELABEL"];
+export const CAPLABEL = strings["HEADER.ESI.CAPLABEL"];
+export const STATUSLABEL = strings["HEADER.ESI.STATUSLABEL"];
+export const TBLHEAD = strings["HEADER.ESI.TBLHEAD"];
+export const ADDNEWESI = strings["HEADER.ESI.ADDNEWESI"];
+export const HOMEPATH = strings["HEADER.ESI.HOMEPATH"];
+export const CURRENTPATH = strings["HEADER.ESI.CURRENTPATH"];
+export const SUCESSSTATUSTITLE = strings["STATUS.SUCEESS.TITLE"];
+export const SUCESSSTATUSTEXT = strings["STATUSESUCEESS.TEXT"];
+export const SUCESSCREATETITLE = strings["ADD.SUCEESS.TITLE"];
+export const SUCESSCREATEXT = strings["ADD.SUCEESS.TEXT"];
+export const SUCESSUPDATETITLE = strings["UPDATE.SUCEESS.TITLE"];
+export const SUCESSUPDATEXT = strings["UPDATE.SUCEESS.TEXT"];

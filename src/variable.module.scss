@@ -1,0 +1,25 @@
+$primary-color: #ee2128;
+$secondary-color: #fe6d8e;
+$info-color: #2198ee;
+$success-color: #4aee21;
+$warning-color: #ffbf00;
+$error-color: #ee7721;
+$white-color: #fff;
+$black-color: #282828;
+$gray-color: #707070;
+$divider-color: #e2e2e2;
+$border-color: #f0f0f0;
+
+:export {
+  primary_color: $primary-color;
+  secondary_color: $secondary-color;
+  info_color: $info-color;
+  success_color: $success-color;
+  error_color: $error-color;
+  white_color: $white-color;
+  black_color: $black-color;
+  gray_color: $gray-color;
+  divider_color: $divider-color;
+  border_color: $border-color;
+  warning_color: $warning-color;
+}

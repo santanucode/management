@@ -1,0 +1,16 @@
+import strings from "translation";
+
+export const ADDOPERATIONLABEL = strings["FORM.ADDOPERATIONLABEL"];
+export const UPDATEDOPERATIONLABEL = strings["FORM.UPDATEDOPERATIONLABEL"];
+
+export const OPERATIONPLACEHOLDER = strings["FORM.OPERATIONPLACEHOLDER"];
+export const OPERATIONLABEL = strings["FORM.OPERATIONLABEL"];
+export const OPERATIONCUSTOMERR = strings["FORM.OPERATIONCUSTOMERR"];
+
+export const CATEGORYPLACEHOLDER = strings["FORM.CATEGORYPLACEHOLDER"];
+export const CATEGORYLABEL = strings["FORM.CATEGORYLABEL"];
+export const CATEGORYERR = strings["FORM.CATEGORYERR"];
+
+export const CANCELBTN = strings["FORM.OPERATION.CANCELBTN"];
+export const SAVEBTN = strings["FORM.OPERATION.SAVEBTN"];
+export const UPDATEBTN = strings["FORM.OPERATION.UPDATEBTN"];

@@ -1,0 +1,48 @@
+.root_containter {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+  }
+  .box_container {
+    background-color: white;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
+      rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    width: 30%;
+    padding: 25px;
+    margin-top: 50px;
+    border-radius: 5px;
+  }
+  .date_div {
+    margin-top: 20px;
+  }
+  .btn_submit {
+    margin-top: 20%;
+  }
+  .root_btn {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  .report-btn {
+    border-radius: 10px;
+  }
+  
+  .generate_paper{
+    background: white;
+    padding: 26px 22px;
+    width: 35%;
+    margin: 0 auto;
+    border-radius: 8px;
+  }
+  .form_div_generate{
+    margin-bottom: 20px;
+  }
+  .form_btn_generate{
+    display: flex;
+    justify-content: center;
+  }
+  .NoRecordFound{
+    text-align: center;
+    height: 200px;
+  }

@@ -1,0 +1,108 @@
+.header-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+    .header-toolbar {
+      .date-input{
+          margin-right: 10px;
+          margin-bottom: 10px;
+      }
+      .shift-btn {
+          margin-right: 10px;
+      }
+    }
+  }
+ 
+  td{
+    overflow: inherit !important;
+  }
+
+  .css-1rymvcl-MuiTableCell-root {
+    overflow: inherit !important;
+ 
+}
+.select__menu{
+  position: absolute;
+  z-index: 9999;
+}
+.pagination-table-bg{
+  border-top: 2px solid #ccc;
+  background: #fff;
+  margin: 14px auto;
+  border-radius: 4px;
+}
+.attendance-btn{
+  background-color: red;
+}
+
+.mainOperation .operationName {
+    width: 70px;
+    margin-right: 10px;
+    color: rgb(115, 115, 115);
+    font-size: 13px;
+    display: inline-block;
+}
+
+.worklog_table {
+  thead {
+  // thead and tr don't currently support sticky
+  // position: -webkit-sticky;
+  // position: sticky;
+  // left: 0; top: 0;
+
+  // th {
+  //   position: -webkit-sticky; // for safari
+  //   position: sticky;
+  //   top: 0;
+  //   background: #fff;
+  //   padding: 10px 100px;
+  //   &:first-child {
+  //     z-index: 3;
+  //   }
+    
+  // }
+  
+}}
+.worklog_table th, td {
+  &:first-child {
+    position: -webkit-sticky; // for safari
+    // position: sticky;
+    left: 0px;
+    z-index: 9;
+    // width: 44%;
+    
+  }
+}
+
+.worklog_table {
+  td:first-child {
+    tr:nth-child(odd) & {
+      background: hsl(0, 71%, 78%);
+      box-shadow: inset -2px 0px rgba(black, 0.25);
+      // z-index: 9+1;padding: 10px 100px;
+    }
+}
+ tr:nth-child(even) & {
+    background: hsl(0, 0%, 15%);
+    box-shadow: inset -2px 0px rgba(black, 0.25);
+    // z-index: 9 + 1 !important;padding: 10px 100px;
+  }
+}
+.operationField {
+  border: 1px solid #ccc;
+  padding: 5px 8px;
+  margin-right: 10px;
+  border-radius: 4px;
+  width: 70px !important;
+}
+.gangmember-select{
+  width: 40%;
+}
+
+.bonus-bag{
+  width: 15%;
+}
+.partial-pay{
+  width: 15%;
+}

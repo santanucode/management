@@ -1,0 +1,36 @@
+.rolemapright {
+    position: absolute;
+    top: 0px;
+    left: 170px;
+}
+.rolemain {
+    position: relative;
+}
+.rolepermissionList {
+    max-height: 40vh;
+    overflow-y: auto;
+}
+.rolepermissionList p {
+    cursor: pointer;
+    color: black;
+    padding: 6px 8px;
+    margin-right: 12px;
+    border-radius: 4px;
+    margin-bottom: 0;
+}
+
+.rolepermissionList p:hover {
+    background-color: #5570f1;
+    color: #fff;
+    padding: 6px 8px;
+    margin-right: 12px;
+    border-radius: 4px;
+}
+
+.roleactiveclass {
+    background-color: #5570f1;
+    color: #fff !important; 
+    padding: 6px 8px;
+    margin-right: 12px;
+    border-radius: 4px;
+}

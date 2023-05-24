@@ -1,0 +1,27 @@
+{
+  "TABLE.ACTION.LABEL": "କାର୍ଯ୍ୟ",
+  "TABLE.NODATA": "ପ୍ରଦର୍ଶନ କରିବାକୁ କଣସି ରେକର୍ଡ ନାହିଁ",
+  "TABLE.ROWSPERPAGE": "ପ୍ରତି ପୃଷ୍ଠାରେ ଧାଡି",
+  "HEADER.ADD.STAFF": "ଏକ ନୂତନ କର୍ମଚାରୀ ଯୋଡନ୍ତୁ",
+  "TITLE.STAFF": "କର୍ମଚାରୀ",
+  "TITLE.ACTIVESTATUS": "ସକ୍ରିୟ",
+  "TITLE.INACTIVESTATUS": "ନିଷ୍କ୍ରିୟ",
+  "TITLE.TBLID": "କ୍ରମିକ",
+  "TITLE.TBLEMPCODE": "କର୍ମଚାରୀ ସଂକେତ",
+  "TITLE.TBLUSLNO": "ୟୁନିଅନ୍ କ୍ରମିକ ସଂଖ୍ୟା",
+  "TITLE.TBLBANK": "Bank ନାମ",
+  "TITLE.TBLNAME": "ନାମ",
+  "TITLE.TBLGROUP": "ଗୋଷ୍ଠୀ",
+  "TITLE.TBLACCNO": "ଖାତା ସଂଖ୍ୟା",
+  "TITLE.TBLUDAI": "ଆଧାର ସଂଖ୍ୟା",
+  "TITLE.TBLEPFNO": "Epf ସଂଖ୍ୟା",
+  "TITLE.TBLESINO": "Esi ସଂଖ୍ୟା",
+  "TITLE.TBLUANNO": "Uan ସଂଖ୍ୟା",
+  "TITLE.TBLINSNO": "ବୀମା ସଂଖ୍ୟା",
+  "TITLE.TBLSTATUS": "ସ୍ଥିତି",
+  "PATH.HOME": "ଘର",
+  "PATH.CURRENT_PATH": "କର୍ମଚାରୀ",
+
+
+  "ERROR.STAFF_DUPLICATE_AADHAR": "ସମାନ ଆଧାର-ସଂଖ୍ୟା ସହିତ ପୂର୍ବରୁ ଅନ୍ୟ ଜଣେ କର୍ମଚାରୀ ବିଦ୍ୟମାନ ଅଛନ୍ତି |"
+}

@@ -1,0 +1,17 @@
+{
+    "primary":"#5570F1",
+    "primary-light":"#5570F1",
+    "primary-dark":"#5570F1",
+    "secondary":"#1A73E8",
+    "secondary-light":"#478fec",
+    "secondary-dark":"#1250a2",
+    "error":"#f44336",
+    "error-light":"#ff7961",
+    "error-dark":"#ba000d",
+    "warning":"#ffea00",
+    "warning-light":"#ffff56",
+    "warning-dark":"#c7b800",
+    "white":"#ffffff",
+    "black":"#000000",
+    "tblHeader": "#48C9B0"
+}

@@ -1,0 +1,78 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200;0,500;0,600;0,700;0,800;1,400&display=swap');
+body {
+  margin: 0;
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif; */
+  
+  font-family: 'Karla', sans-serif !important;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+  border-radius: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #9a9a9a !important; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #ef454b !important; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(117, 117, 117); 
+}
+
+.error_msg {
+  color: red;
+  font-weight: 300;
+  padding: 0 16px;
+}
+
+th {
+  white-space: nowrap;
+}
+.css-i9fmh8-MuiBackdrop-root-MuiModal-backdrop {
+
+ 
+  -webkit-tap-highlight-color: transparent;
+  z-index: -1;
+  background: rgb(195 195 195 / 50%) !important;
+  backdrop-filter: blur(4px) !important;
+}
+.css-z45dk3 {
+  box-shadow: none !important;
+}
+.css-inpqmw {
+  box-shadow:  none !important;
+}
+button.swal2-cancel.btn.btn-danger {
+  margin-right: 18px;
+}
+.errorimg {
+  width: 25%;
+  margin: 9% auto;
+}
+.errorimg img {
+  width: 100%;
+}
+.MuiTablePagination-selectLabel {
+  margin: 0 !important;
+}
+div#root {
+  overflow: hidden;
+  height: 100vh;
+}
+p.MuiTablePagination-displayedRows {
+  margin: 0;
+}
+/* code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
