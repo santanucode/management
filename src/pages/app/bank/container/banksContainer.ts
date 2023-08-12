@@ -8,11 +8,8 @@ import {
   fetchUpdateBank,
 } from "../service/banksSlice";
 import {
-  BANKSDT,
   BankApiDTO,
-  BankStatusChangeDTO,
-  GETBANKDT,
-  UpdateBankDTO,
+  BankStatusChangeDTO
 } from "../service/types";
 import { RoleFunDTO } from "pages/auth/signin/service/types";
 import { getRole } from "pages/auth/signin/service/userSlice";

@@ -31,16 +31,13 @@ import {
   STATUSCHANGEPERMISSIONNO,
   STATUSCHANGEPERMISSIONYES,
   STATUSCHANGESUBHEAD,
-  STATUSDELETEDSCANCEL,
-  STATUSDELETEDSCANCELERROR,
-  STATUSDELETEDSCANCELSHEAD,
   STATUSDELETEDSUBHEAD,
   STATUSDELETEDSUCCESS,
 } from "pages/app/wage/container/wageString";
 import { useDispatch } from "react-redux";
 import { reset } from "../service/banksSlice";
 import { BanksProps } from "../container/banksContainer";
-import { BankApiDTO, BankStatusChangeDTO } from "../service/types";
+import {  BankStatusChangeDTO } from "../service/types";
 
 interface SUBMITDT {
   name?: string;

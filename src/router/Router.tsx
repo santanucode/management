@@ -17,11 +17,8 @@ import { HolidayComponent } from 'pages/app/holiday/container/holidayContainer'
 import { WageComponent } from 'pages/app/wage/container/wageContainer'
 import { IncentiveComponent } from 'pages/app/incentive/container/incentiveContainer'
 import { HolidayConfigComponent } from 'pages/app/holidaysConfig/container/holidayConfigContainer'
-import { AttendanceComponent } from 'pages/app/attendance/container/attendanceContainer'
-import EpfReport from 'pages/app/epfReport/component/epfReport'
-// import EsiReport from 'pages/app/esiReport/component/esiReportb'
-import { BankReportComponent } from 'pages/app/bankStatement/container/bankReportContainer'
-import WageSlip from 'pages/app/wageSlip/component/wageSlip'
+import { AttendanceComponent } from 'pages/app/attendance/container/attendanceContainer';
+import { BankReportComponent } from 'pages/app/bankStatement/container/bankReportContainer';
 import { WorklogComponent } from 'pages/app/worklog/container/worklogContainer'
 import { AttendanceReportComponent } from 'pages/app/attendanceReport/container/attendanceReportContainer'
 import MustorRole from 'pages/app/mustorRole/component/MusterRole'

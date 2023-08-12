@@ -12,12 +12,9 @@ import {
   updateBank,
 } from "./bank.request";
 import {
-  BankApiDTO,
   BankInitStateDTO,
   BANKSDT,
   BankStatusChangeDTO,
-  BODYDT,
-  GETBANKDT,
   UpdateBankDTO,
 } from "./types";
 
